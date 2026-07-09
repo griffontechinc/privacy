@@ -4,16 +4,25 @@ This privacy policy applies to the Goal Tactics app for mobile devices, together
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application collects information when you download and use it. This information may include data such as:
 
-*   Your device's Internet Protocol address
+*   Your device's Internet Protocol (IP) address (used to determine approximate location)
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
-*   your mobile operating system you use
+*   The mobile operating system you use
+*   Device identifiers, such as the Google Advertising ID (AAID) for Android or IDFA for iOS
+
+The Service Provider uses this information to optimize application performance, analyze user trends, prevent fraud, and serve advertisements through third-party networks.
 
 **Cookies and tracking technologies**
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+The Application and its third-party SDKs use cookies, software development kits (SDKs), pixels, and similar tracking technologies to support functionality, analyze performance, and deliver personalized services. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+
+**Third Party Access & Advertisements**
+
+The Service Provider shares limited information with third-party service providers to aid in improving the Application and delivering relevant services. 
+
+Specifically, the Application integrates the **Google AdMob SDK** to display advertisements. Google AdMob may automatically collect and process device identifiers (AAID/IDFA), cookies, location data, and ad interaction metrics (such as clicks or views) to personalize ad content, measure campaign efficacy, and perform analytics. For more information on how Google manages and protects your data, please visit the official [Google Privacy Policy](https://policies.google.com/privacy).
 
 **Your Rights**
 
@@ -27,13 +36,9 @@ The Service Provider may use the information you provide to send important infor
 
 For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information the Service Provider requests will be retained and used as described in this privacy policy.
 
-**Third Party Access**
-
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
 **International Data Transfers**
 
-The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
+The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms:
 
 *   Standard Contractual Clauses (SCCs) approved by the European Commission
 *   Adequacy decisions or other legally recognized transfer mechanisms
@@ -66,9 +71,9 @@ You may request deletion of your personal data, subject to any legal obligation 
 
 **Children**
 
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+The Application is not intended for children under 13 years of age (or under 16 years of age in the EEA), and the Service Provider does not knowingly collect personal data from children or target personalized advertising to them. 
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(griffontechinc@gmail.com)</span> so that they will be able to take the necessary actions. If you are under 16 years of age, your parent or guardian must provide consent on your behalf where permitted by law.
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (griffontechinc@gmail.com) so that they will be able to take the necessary actions. 
 
 **Security**
 
@@ -84,7 +89,7 @@ The Service Provider may update this Privacy Policy from time to time. The Servi
 
 Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at griffontechinc@gmail.com.
 
-This privacy policy is effective as of 2026-06-13
+This privacy policy is effective as of 2026-07-09
 
 **Your Consent**
 
@@ -94,6 +99,6 @@ Where processing is based on consent, you provide that consent by affirmatively 
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at griffontechinc@gmail.com.
 
-* * *
+***
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) and customized for third-party SDK compliances.
